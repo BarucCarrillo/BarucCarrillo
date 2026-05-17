@@ -61,6 +61,6 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radium"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BarucCarrillo&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarucCarrillo&layout=compact&theme=radium"/>
 </div>
